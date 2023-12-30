@@ -11,7 +11,7 @@ async-trait = "0.1.42"
 derive_more = "0.99.11"
 futures = "0.3.12"
 futures-timer = "3.0.2"
-mick-jaeger = "0.1.2"
+mick-jaeger = "0.1.8"
 lazy_static = "1.4"
 tracing = "0.1.26"
 parity-scale-codec = { version = "2.0.0", default-features = false, features = ["derive"] }
